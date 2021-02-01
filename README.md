@@ -2,6 +2,7 @@
 
 <h1> k0imet </h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=k01m3t" alt="k01m3t" /> </p>
 [![GitHub k01m3t](https://img.shields.io/github/followers/k01m3t?label=follow%20github&style=flat-square)](https://github.com/k01m3t)
 
 #### whoami
