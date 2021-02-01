@@ -3,10 +3,11 @@
 <h1> k0imet </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k01m3t" alt="k01m3t" /> </p>
-#### whoami
+
+### whoami
 <p> k0imet, CTF Player <a href="https://twitter.com/fr334aks">@fr334aks</a> </p>
 
-#### Contact
+### Contact
 
 Email: kevoskok@gmail.com
 
