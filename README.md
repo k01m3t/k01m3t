@@ -16,4 +16,4 @@ Twitter:<a href="https://twitter.com/k0imet_">@k0imet_</a>
 Telegram: <a href="https://t.me/K0imet_">@k0imet_</a>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=k01m3t&show_icons=true" width="49.5%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k01m3t&layout=compact" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=k0imet&show_icons=true" width="49.5%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0imet&layout=compact" width="49%">
